@@ -20,7 +20,7 @@ setup(name='sphcpy',
       url='https://github.com/viper2642/sphcpy',
       author='David Pfefferle',
       author_email='david.pfefferle@uwa.edu.au',
-      license='UWA',
+      license='GPL-3.0',
       packages=['sphcpy'],
       install_requires=[
           'os',

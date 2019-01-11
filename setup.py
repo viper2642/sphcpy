@@ -23,9 +23,6 @@ setup(name='sphcpy',
       license='GPL-3.0',
       packages=['sphcpy'],
       install_requires=[
-          'os',
-          'sys',
-          'glob',
           'numpy',
           'pyevtk'
       ],

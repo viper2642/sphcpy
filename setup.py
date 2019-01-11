@@ -7,7 +7,7 @@ def readme():
 
 
 setup(name='sphcpy',
-      version='0.0.4',
+      version='0.0.5',
       description='Wrappers and tools for reading and plotting p.XX data from SPHC',
       long_description=readme(),
       classifiers=[
